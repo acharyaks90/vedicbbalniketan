@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+node_modules
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build output
+dist/
+build/
+out/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Coverage
+coverage/
+*.lcov
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
